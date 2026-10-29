@@ -29,6 +29,8 @@ Portfólio profissional desenvolvido do zero com **HTML, CSS e JavaScript puro**
 Opção 1 (mais simples): dê **duplo clique** no `index.html` — abre direto no navegador.
 
 Opção 2 (com servidor local, requer Node.js):
+
 ```bash
 npx serve .
 # depois abra http://localhost:3000
+```
